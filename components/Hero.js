@@ -37,12 +37,12 @@ const Hero = ({
             variants={scrollAnimation}>
             <div className=" flex flex-col justify-center items-start row-start-2 sm:row-start-1">
               <h1 className="text-3xl lg:text-4xl xl:text-5xl font-medium text-black-600 leading-normal">
-              Semeando sites de <strong>sucesso</strong>, colhendo clientes <strong>satisfeitos</strong>.
+              Semeando <strong>Ideias</strong>, Colhendo <strong>Sucesso</strong>.
               </h1>
               <p className="text-black-500 mt-4 mb-6">
-              Entre no digital com uma landing page de excelência 
+              Junte-se ao Projeto Abacate e transforme sua visão em realidade!
               </p>
-              <ButtonPrimary>Faça um orçamento!</ButtonPrimary>
+              <ButtonPrimary>Faça Parte!</ButtonPrimary>
             </div>
             <div className="flex w-full">
               <motion.div className="h-full w-full" variants={scrollAnimation}>
