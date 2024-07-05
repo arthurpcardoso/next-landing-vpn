@@ -37,7 +37,7 @@ const Hero = ({
             variants={scrollAnimation}>
             <div className=" flex flex-col justify-center items-start row-start-2 sm:row-start-1">
               <h1 className="text-3xl lg:text-4xl xl:text-5xl font-medium text-black-600 leading-normal">
-              Semeando <strong>Ideias</strong>, Colhendo <strong>Sucesso</strong>.
+              Semeando <strong>Ideias</strong>, Colhendo <strong>Resultados</strong>.
               </h1>
               <p className="text-black-500 mt-4 mb-6">
               Junte-se ao Projeto Abacate e transforme sua visão em realidade!
